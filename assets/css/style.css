@@ -718,6 +718,7 @@ a:hover {
   height: 100vh;
   position: relative;
   color: #fff;
+  overflow: hidden;
 }
 
 .hero .hero-content {
