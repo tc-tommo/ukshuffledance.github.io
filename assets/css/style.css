@@ -727,7 +727,7 @@ a:hover {
 
 .hero-links {
   list-style-type: none;
-  font-size: 5rem;
+  font-size: 4rem;
 }
 
 .hero-links a {
@@ -756,11 +756,11 @@ a:hover {
 }
 
 .hero-links a:hover .hero-title {
-  width: 80%
+  width: 80%;
 }
 
 .hero-links a .hero-title {
-  transition: width 300ms ease-in-out;
+  transition: width 500ms ease-in-out;
 }
 
 
@@ -792,10 +792,15 @@ a:hover {
 }
 
 .hero .hero-title {
+  font-size: 4rem;
   color: #fff;
-  font-weight: 500;
+  font-weight: 600;
   text-transform: uppercase;
   padding-left: 5%;
+  vertical-align: middle;
+  margin-bottom: 5vh;
+  white-space: nowrap;
+
   display: inline-flex;
   width: 0;
   overflow: hidden;
