@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   sodipodi:docname="logo.svg"
+   id="svg22"
+   viewBox="0 0 67.733 67.733"
+   version="1.1"
+   height="256"
+   width="256"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview24"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     showgrid="false"
+     inkscape:zoom="0.39208985"
+     inkscape:cx="460.35367"
+     inkscape:cy="266.52054"
+     inkscape:window-width="1348"
+     inkscape:window-height="1011"
+     inkscape:window-x="595"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg22"
+     inkscape:snap-page="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:object-paths="true"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:snap-nodes="true"
+     inkscape:snap-others="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:snap-midpoints="false"
+     inkscape:bbox-paths="false" />
+  <defs
+     id="defs5">
+    <clipPath
+       id="clipPath913">
+      <g
+         id="use2"
+         style="paint-order:fill markers stroke">
+        <path
+           transform="matrix(1.987475,0,0,2.2949581,-31.68105,-43.686856)"
+           d="M 47.839,46.661 H 18.118 l 14.861,-25.74 z"
+           fill="#206086"
+           stroke="#ffffff"
+           stroke-linejoin="round"
+           stroke-width="1.0804"
+           style="paint-order:stroke fill markers"
+           id="path1106" />
+      </g>
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path3641"
+     style="fill:#ffffff;stroke:none;stroke-width:8.09132;stroke-linejoin:round;paint-order:stroke markers fill"
+     d="M 28.945192,0.36407374 A 33.866556,33.866556 0 0 0 7.6123557e-5,33.86654 33.866556,33.866556 0 0 0 3.9873404,49.759301 Z M 10.148566,58.009573 A 33.866556,33.866556 0 0 0 33.866537,67.733 33.866556,33.866556 0 0 0 57.584987,58.009573 Z M 63.74478,49.762164 A 33.866556,33.866556 0 0 0 67.733,33.86654 33.866556,33.866556 0 0 0 38.785498,0.36073421 Z" />
+  <path
+     d="M 61.039431,53.781862 H 6.6920092 L 33.866635,0 Z"
+     fill="#206086"
+     stroke="#ffffff"
+     stroke-linejoin="round"
+     stroke-width="4.3262"
+     style="stroke:none;stroke-width:8.45637;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+     id="path9" />
+  <path
+     id="path11"
+     style="fill:#e30400;fill-opacity:1;stroke-width:0.244255;paint-order:stroke fill markers"
+     d="m 37.806685,7.7983609 -7.884638,0.0085 -6.151864,12.1752771 c 1.079047,1.753302 2.451647,5.918728 4.099714,10.996802 -1.800529,5.548342 -3.427492,10.41131 -4.51823,11.749979 l 5.414949,11.052989 h 11.512882 l 3.978804,-6.785539 -6.167879,-15.408738 5.452315,-12.478924 z"
+     sodipodi:nodetypes="ccccccccccc" />
+  <path
+     id="path1956"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:8.45636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+     d="m 41.986092,16.070784 -4.921824,9.567907 -3.16195,-5.443727 -2.404381,4.499628 16.643178,29.087277 h 4.341719 L 40.544894,32.015547 44.824596,21.689115 Z m -16.251989,0.02433 -0.457501,0.905936 21.074108,36.780818 h 0.974635 z m -0.762819,1.509894 -2.521737,4.990043 5.144133,9.565523 -11.425577,21.621299 H 22.6585 l 8.429166,-15.7215 3.628039,6.307683 2.846137,-4.370819 z" />
+  <g
+     id="path3122"
+     transform="matrix(1.0116087,0,0,1.0116087,-0.8899116,0.36073421)" />
+</svg>
