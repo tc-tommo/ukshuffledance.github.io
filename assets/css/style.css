@@ -733,52 +733,18 @@ a:hover {
 
 .hero-links a {
   color: #fff;
-
-  transition: opacity 100ms linear, font-size 300ms ease-in-out;
+  opacity: 0.8;
 }
+
 .hero-links li a i {
   line-height: inherit;
   text-align: center;
   margin: auto;
 }
-
 .hero-links  i {
   display:inline flow-root list-item;
   width: 15%;
   align-content: center;
-}
-.hero-links a {
-  opacity: 0.8;
-}
-
-.hero-links a:hover {
-  font-size: 9rem;
-  opacity: 1;
-}
-
-.hero-links a:hover .hero-title {
-  width: 80%;
-}
-
-.hero-links a .hero-title {
-  transition: width 500ms ease-in-out;
-}
-
-
-.hero-links .join .fa-door-open {
-  position: absolute;
-}
-
-.hero-links a:hover .fa-door-open{
-  opacity: 1;
-}
-
-.hero-links a:hover .fa-door-closed {
-  opacity: 0;
-}
-
-.hero-links a .fa-door-open {
-  opacity: 0;
 }
 
 .hero .overlay-itro {
@@ -793,9 +759,9 @@ a:hover {
 }
 
 .hero .hero-title {
-  font-size: 4rem;
+  font-size: 4vw;
   color: #fff;
-  font-weight: 600;
+  font-weight: 500;
   text-transform: uppercase;
   padding-left: 5%;
   vertical-align: middle;
@@ -803,11 +769,40 @@ a:hover {
   white-space: nowrap;
 
   display: inline-flex;
-  width: 0;
   overflow: hidden;
 } 
-/* 
+
+.hero-links a:hover .fa-door-closed:before {
+    content: "\f52b";
+}
+
 @media (min-width: 768px) {
+  .hero .hero-title {  
+    width: 0;
+  }
+
+  .hero-links a {
+    transition: opacity 100ms linear, font-size 300ms ease-in-out;
+  }
+
+  .hero-links a:hover {
+    font-size: 9rem;
+    opacity: 1;
+  }
+
+  .hero-links a:hover .hero-title {
+    width: 60%;
+  }
+
+  .hero-links a .hero-title {
+    transition: width 500ms ease-in-out;
+  }
+}
+
+
+
+
+/* 
   .hero .hero-title {
     font-size: 4.5rem;
   }
@@ -827,7 +822,7 @@ a:hover {
 
 .hero .hero-subtitle {
   font-size: 1.5rem;
-  font-weight: 600;
+  font-weight: 500;
 }
 
 @media (min-width: 768px) {
