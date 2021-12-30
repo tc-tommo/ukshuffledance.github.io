@@ -8,6 +8,17 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
+
+@font-face {
+  font-family: Nexa Bold;
+  src: url(/assets/fonts/NexaBold.woff2);
+}
+@font-face {
+  font-family: Nexa Light;
+  src: url(/assets/fonts/NexaLight.woff2);
+}
+
 body {
   background-color: #f5f5f5;
   color: #4e4e4e;
