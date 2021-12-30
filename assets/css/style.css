@@ -12,11 +12,11 @@
 
 @font-face {
   font-family: Nexa Bold;
-  src: url(/assets/fonts/NexaBold.woff2);
+  src: url(../fonts/NexaBold.woff2);
 }
 @font-face {
   font-family: Nexa Light;
-  src: url(/assets/fonts/NexaLight.woff2);
+  src: url(../fonts/NexaLight.woff2);
 }
 
 body {
