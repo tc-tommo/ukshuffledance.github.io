@@ -10,18 +10,8 @@
 # General
 --------------------------------------------------------------*/
 
-@font-face {
-    font-family: Nexa Bold;
-    src: url(../fonts/NexaBold.woff2);
-}
-
-@font-face {
-    font-family: Nexa Light;
-    src: url(../fonts/NexaLight.woff2);
-}
-
 body {
-    font-family: Nexa;
+    font-family: 'Montserrat';
     background-color: #000;
     color: #4e4e4e;
 }
