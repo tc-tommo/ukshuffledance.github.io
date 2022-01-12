@@ -214,7 +214,7 @@ a:hover {
 .box-shadow-full {
     padding: 3rem 1.25rem;
     position: relative;
-    background-color: #ddd;
+    background-color: #ccc;
     margin-bottom: 3rem;
     z-index: 2;
     box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.06), 0 2px 5px 0 rgba(0, 0, 0, 0.2);
@@ -290,7 +290,7 @@ a:hover {
     line-height: 1.55;
     margin: 0 auto;
     text-align: center;
-    box-shadow: 0 0 0 10px #0078ff;
+    box-shadow: 0 0 0 10px white;
     display: block;
 }
 
@@ -996,13 +996,13 @@ a:hover {
 .service-box:hover .ico-circle {
     transition: all 1s ease;
     color: #fff;
-    background-color: #00116c;
+    background-color: #e30400;
     box-shadow: none;
 }
 
 .service-box .service-ico {
     margin-bottom: 1rem;
-    color: #1e1e1e;
+    color: #e30400;
 }
 
 .service-box .ico-circle {
