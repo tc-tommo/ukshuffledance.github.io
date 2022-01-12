@@ -426,15 +426,15 @@ a:hover {
 }
 
 .button:hover {
-    background-color: #be0707;
+    background-color: var(--accent);
     color: #fff;
     transition: all 500ms ease;
 }
 
 .button-a {
     text-decoration: none;
-    background-color: var(--accent);
-    color: #fff;
+    background-color: #222;
+    color: var(--accent);
     border-color: #cde1f8;
 }
 
@@ -1014,7 +1014,7 @@ a:hover {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    background-color: black;
+    background-color: #222;
 }
 
 .service-box .ico-circle i {
