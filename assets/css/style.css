@@ -1039,7 +1039,7 @@ a:hover {
 }
 
 .join-link:focus .ico-circle {
-    box-shadow: 0 0 0 100vh white;
+    box-shadow: 0 0 0 200vh white;
 }
 
 .join-link:hover i::before {
