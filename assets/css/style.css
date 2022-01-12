@@ -1032,7 +1032,7 @@ a:hover {
     box-shadow: 0 0 0 100vh white;
 }
 
-.ico-circle:hover i::before {
+.join-link:hover i::before {
     content: '\f307';
 }
 
